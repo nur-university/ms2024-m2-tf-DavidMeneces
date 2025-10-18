@@ -7,7 +7,7 @@ import java.util.UUID;
 
 @Default
 public interface IIngredienteRepository extends IRepository<Ingrediente> {
-    void updateAsync(Ingrediente item);
+    void update(Ingrediente item);
 
-    void deleteAsync(UUID id);
+    void delete(UUID id);
 }
