@@ -3,7 +3,7 @@
 El siguiente proyecto tiene por objetivo la gestion de los planes alimentarios, que podran ser asignados a los pacientes
 
 ## Diagrama de Clases
-![DC - Planes Alimentarios y Recetas](docs/DC-Planes%20Alimentarios%20y%20Recetas.jpg)
+![DC - Planes Alimentarios y Recetas](src/main/resources/DC-Planes%20Alimentarios%20y%20Recetas.jpg)
 
 # code-with-quarkus
 
